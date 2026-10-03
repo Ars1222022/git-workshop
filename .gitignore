@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Virtuella miljoer
+.venv/
+venv/
+
+# Redigerare / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Windows
+desktop.ini
+
+# Filer som elever kan skapa under workshopen
+*.log
